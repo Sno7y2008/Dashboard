@@ -22,7 +22,7 @@ header {
 
 div {
     background-color: rgb(112, 112, 112);
-    height: 625px;
+    height: 100vh;
     width: 220px;
     display: flex;
     flex-direction: column;
